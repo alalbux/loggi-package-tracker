@@ -1,4 +1,4 @@
-# Material UI - Next.js App Router example
+# Desafio - Package Tracker
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped using [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with Material UI installed.
 
@@ -9,15 +9,15 @@ Download the example [or clone the repo](https://github.com/mui/material-ui):
 <!-- #default-branch-switch -->
 
 ```bash
-curl https://codeload.github.com/mui/material-ui/tar.gz/master | tar -xz --strip=2  material-ui-master/examples/material-ui-nextjs
-cd material-ui-nextjs
+git clone 
+cd loggi-package-tracker
 ```
 
 Install it and run:
 
 ```bash
-npm install
-npm run dev
+yarn install
+yarn run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
